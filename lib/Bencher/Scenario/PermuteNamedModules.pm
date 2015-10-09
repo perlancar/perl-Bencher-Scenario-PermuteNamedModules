@@ -40,3 +40,7 @@ our $scenario = {
 
 1;
 # ABSTRACT: Benchmark various modules doing permutation of multiple-valued key-value pairs
+
+=head1 SYNOPSIS
+
+ % bencher -m PermuteNamedModules [other options]...
