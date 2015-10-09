@@ -39,4 +39,4 @@ our $scenario = {
 };
 
 1;
-# ABSTRACT: Benchmark various modules calculating the Levenshtein edit distance
+# ABSTRACT: Benchmark various modules doing permutation of multiple-valued key-value pairs
