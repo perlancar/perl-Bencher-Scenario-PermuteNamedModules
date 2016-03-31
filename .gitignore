@@ -1,3 +1,4 @@
 Bencher-Scenario-PermuteNamedModules-*
 .build
 *~
+nytprof*
